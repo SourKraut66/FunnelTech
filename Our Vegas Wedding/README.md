@@ -1,3 +1,0 @@
-README.rm
-
-Funnel Tech
