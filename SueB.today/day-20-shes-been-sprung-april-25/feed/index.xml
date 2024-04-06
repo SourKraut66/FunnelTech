@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Day 20 &#8211; She&#8217;s Been Sprung! &#8211; April 25	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Daily Status and Progress</description>
+	<lastBuildDate>Wed, 26 Apr 2017 05:21:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Greg Crider		</title>
+		<link>./../index.html#comment-42</link>
+
+		<dc:creator><![CDATA[Greg Crider]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 05:21:21 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=333#comment-42</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-41&quot;&gt;Ellie McDougall&lt;/a&gt;.
+
+Great news.  My thoughts and prayers are for Sue on her road to recovery.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-41">Ellie McDougall</a>.</p>
+<p>Great news.  My thoughts and prayers are for Sue on her road to recovery.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ellie McDougall		</title>
+		<link>./../index.html#comment-41</link>
+
+		<dc:creator><![CDATA[Ellie McDougall]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 04:41:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=333#comment-41</guid>
+
+					<description><![CDATA[Where is she now? Looks like a very pretty area. That&#039;s such great news.]]></description>
+			<content:encoded><![CDATA[<p>Where is she now? Looks like a very pretty area. That&#8217;s such great news.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
